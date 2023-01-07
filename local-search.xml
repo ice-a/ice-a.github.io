@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title></title>
+    <link href="/2023/01/07/code-server/"/>
+    <url>/2023/01/07/code-server/</url>
+    
+    <content type="html"><![CDATA[<h1 id="服务器配置vscode环境"><a href="#服务器配置vscode环境" class="headerlink" title="服务器配置vscode环境"></a>服务器配置vscode环境</h1><h2 id="下载deb"><a href="#下载deb" class="headerlink" title="下载deb"></a>下载deb</h2><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">curl -fOL https:<span class="hljs-regexp">//gi</span>thub.com<span class="hljs-regexp">/coder/</span>code-server<span class="hljs-regexp">/releases/</span>download<span class="hljs-regexp">/v4.2.0/</span>code-server_4.<span class="hljs-number">2.0</span>_amd64.deb<br></code></pre></td></tr></table></figure><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">sudo</span> dpkg -i code-server_4.<span class="hljs-number">2</span>.<span class="hljs-number">0</span>_amd64.deb<br></code></pre></td></tr></table></figure><h2 id="配置端口号及密码"><a href="#配置端口号及密码" class="headerlink" title="配置端口号及密码"></a>配置端口号及密码</h2><figure class="highlight arcade"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs arcade">vim ~<span class="hljs-regexp">/.config/</span>code-server/config.yaml<br>bind-addr:后面的部分改成<span class="hljs-number">0.0</span><span class="hljs-number">.0</span><span class="hljs-number">.0</span>:xxxx(xxxx表示端口号，可随意设置)<br>password:后面的部分改成你想要的密码<br></code></pre></td></tr></table></figure><h2 id="启动"><a href="#启动" class="headerlink" title="启动"></a>启动</h2><figure class="highlight axapta"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs axapta">code-<span class="hljs-keyword">server</span><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>重装系统需要安装的软件(开发)</title>
     <link href="/2023/01/06/doc-%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E9%9C%80%E8%A6%81%E5%AE%89%E8%A3%85%E7%9A%84%E8%BD%AF%E4%BB%B6(%E5%BC%80%E5%8F%91)/"/>
     <url>/2023/01/06/doc-%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F%E9%9C%80%E8%A6%81%E5%AE%89%E8%A3%85%E7%9A%84%E8%BD%AF%E4%BB%B6(%E5%BC%80%E5%8F%91)/</url>
@@ -1048,40 +1061,6 @@
       <tag>conda</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>my-blog-build-remark</title>
-    <link href="/2023/01/04/my-blog-build-remark/"/>
-    <url>/2023/01/04/my-blog-build-remark/</url>
-    
-    <content type="html"><![CDATA[<h1 id="文章内容"><a href="#文章内容" class="headerlink" title="文章内容"></a>文章内容</h1>]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>hexo</tag>
-      
-      <tag>fluid</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/01/04/hello-world/"/>
-    <url>/2023/01/04/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
