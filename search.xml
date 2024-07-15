@@ -8,7 +8,7 @@
       <link href="/2099/06/07/%E8%BA%BA%E5%B9%B3%E8%AE%A1%E5%88%92/%E8%B6%85%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1/"/>
       <url>/2099/06/07/%E8%BA%BA%E5%B9%B3%E8%AE%A1%E5%88%92/%E8%B6%85%E5%A4%A7%E6%B5%81%E9%87%8F%E5%8D%A1/</url>
       
-        <content type="html"><![CDATA[<h1 id="超大流量卡-下单激活联系我次月返月租"><a href="#超大流量卡-下单激活联系我次月返月租" class="headerlink" title="超大流量卡,下单激活联系我次月返月租"></a>超大流量卡,下单激活联系我次月返月租</h1><h2 id="邮箱-108-101-x65-64-104-108-100-115-x2e-102-117-x6e"><a href="#邮箱-108-101-x65-64-104-108-100-115-x2e-102-117-x6e" class="headerlink" title="邮箱:&#108;&#101;&#x65;&#64;&#104;&#108;&#100;&#115;&#x2e;&#102;&#117;&#x6e;"></a>邮箱:<a href="mailto:&#108;&#101;&#x65;&#64;&#104;&#108;&#100;&#115;&#x2e;&#102;&#117;&#x6e;">&#108;&#101;&#x65;&#64;&#104;&#108;&#100;&#115;&#x2e;&#102;&#117;&#x6e;</a></h2><p><img src="https://github.com/ice-a/ice-a/raw/main/01.png"><br><img src="https://github.com/ice-a/ice-a/raw/main/02.png"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="超大流量卡-下单激活联系我次月返月租"><a href="#超大流量卡-下单激活联系我次月返月租" class="headerlink" title="超大流量卡,下单激活联系我次月返月租"></a>超大流量卡,下单激活联系我次月返月租</h1><h2 id="邮箱-108-x65-x65-64-x68-x6c-100-115-x2e-102-x75-110"><a href="#邮箱-108-x65-x65-64-x68-x6c-100-115-x2e-102-x75-110" class="headerlink" title="邮箱:&#108;&#x65;&#x65;&#64;&#x68;&#x6c;&#100;&#115;&#x2e;&#102;&#x75;&#110;"></a>邮箱:<a href="mailto:&#108;&#x65;&#x65;&#64;&#x68;&#x6c;&#100;&#115;&#x2e;&#102;&#x75;&#110;">&#108;&#x65;&#x65;&#64;&#x68;&#x6c;&#100;&#115;&#x2e;&#102;&#x75;&#110;</a></h2><p><img src="https://github.com/ice-a/ice-a/raw/main/01.png"><br><img src="https://github.com/ice-a/ice-a/raw/main/02.png"></p>]]></content>
       
       
       
@@ -77,7 +77,7 @@
       <link href="/2024/07/15/%E6%96%87%E6%A1%A3/hexo_github/"/>
       <url>/2024/07/15/%E6%96%87%E6%A1%A3/hexo_github/</url>
       
-        <content type="html"><![CDATA[<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><ul><li>github账号</li></ul><h1 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">在github创建一个仓库，仓库名字为 用户名.github.io</span><br><span class="line">eg:我的主页是 https://github.com/ice-a</span><br><span class="line">用户名就是 ice-a</span><br><span class="line">那么创建就是 ice-a.github.io</span><br></pre></td></tr></table></figure><h1 id="本地搭建hexo"><a href="#本地搭建hexo" class="headerlink" title="本地搭建hexo"></a>本地搭建hexo</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 创建一个文件夹</span><br><span class="line">eg: 在桌面建一个文件夹  C:\Users\ice-a\Desktop\hexo_demo</span><br><span class="line">cd C:\Users\ice-a\Desktop\hexo_demo</span><br><span class="line">npm install -g hexo-cli  // 安装hexo</span><br><span class="line">hexo init temp_hexo_demo  // hexo初始化</span><br><span class="line">cd temp_hexo_demo// 切换到路径</span><br><span class="line">npm install// 安装依赖</span><br></pre></td></tr></table></figure><h1 id="修改网站的相关配置"><a href="#修改网站的相关配置" class="headerlink" title="修改网站的相关配置"></a>修改网站的相关配置</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 在_config.yml文件内修改</span><br><span class="line">title,等内容</span><br></pre></td></tr></table></figure><h1 id="创建标签及分类文件夹"><a href="#创建标签及分类文件夹" class="headerlink" title="创建标签及分类文件夹"></a>创建标签及分类文件夹</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 标签</span><br><span class="line">hexo new page tags  // 创建完会在source文件夹下有个tags文件夹，修改index.md里边的内容</span><br><span class="line">---</span><br><span class="line">title: tags</span><br><span class="line">date: 2024-07-13 09:38:12</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br><span class="line"># 分类</span><br><span class="line">hexo new page cetegories  // 和tags的同样</span><br><span class="line">---</span><br><span class="line">title: categories</span><br><span class="line">date: 2024-07-13 10:20:06</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="将笔记放入-posts里边即可"><a href="#将笔记放入-posts里边即可" class="headerlink" title="将笔记放入_posts里边即可"></a>将笔记放入_posts里边即可</h1><p><img src="https://img.lideshan.top/i/2024/07/15/6694e2495d339.png" alt="001.png"></p><h1 id="部署在github"><a href="#部署在github" class="headerlink" title="部署在github"></a>部署在github</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git init   //初始化</span><br><span class="line">git remote add origin https://github.com/ice-a/ice-a.github.io.git  // 添加远程仓库</span><br><span class="line">git branch -M master// 创建分支</span><br><span class="line">git add .   //添加到本地存储库</span><br><span class="line">git commit -m &quot;hexo push github&quot; // 添加commit</span><br><span class="line">git push -u origin master// 推送</span><br></pre></td></tr></table></figure><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h1><ul><li>github账号</li></ul><h1 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">在github创建一个仓库，仓库名字为 用户名.github.io</span><br><span class="line">eg:我的主页是 https://github.com/ice-a</span><br><span class="line">用户名就是 ice-a</span><br><span class="line">那么创建就是 ice-a.github.io</span><br></pre></td></tr></table></figure><h1 id="本地搭建hexo"><a href="#本地搭建hexo" class="headerlink" title="本地搭建hexo"></a>本地搭建hexo</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 创建一个文件夹</span><br><span class="line">eg: 在桌面建一个文件夹  C:\Users\ice-a\Desktop\hexo_demo</span><br><span class="line">cd C:\Users\ice-a\Desktop\hexo_demo</span><br><span class="line">npm install -g hexo-cli  // 安装hexo</span><br><span class="line">hexo init temp_hexo_demo  // hexo初始化</span><br><span class="line">cd temp_hexo_demo// 切换到路径</span><br><span class="line">npm install// 安装依赖</span><br></pre></td></tr></table></figure><h1 id="修改网站的相关配置"><a href="#修改网站的相关配置" class="headerlink" title="修改网站的相关配置"></a>修改网站的相关配置</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 在 _config.yml 文件内修改</span><br><span class="line">title,等内容</span><br></pre></td></tr></table></figure><h1 id="创建标签及分类文件夹"><a href="#创建标签及分类文件夹" class="headerlink" title="创建标签及分类文件夹"></a>创建标签及分类文件夹</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"># 标签</span><br><span class="line">hexo new page tags  // 创建完会在source文件夹下有个tags文件夹，修改index.md里边的内容</span><br><span class="line">---</span><br><span class="line">title: tags</span><br><span class="line">date: 2024-07-13 09:38:12</span><br><span class="line">type: &quot;tags&quot;</span><br><span class="line">comments: false</span><br><span class="line">top_img: false</span><br><span class="line">---</span><br><span class="line"># 分类</span><br><span class="line">hexo new page cetegories  // 和tags的同样</span><br><span class="line">---</span><br><span class="line">title: categories</span><br><span class="line">date: 2024-07-13 10:20:06</span><br><span class="line">aside: false</span><br><span class="line">top_img: false</span><br><span class="line">type: &quot;categories&quot;</span><br><span class="line">---</span><br></pre></td></tr></table></figure><h1 id="将笔记放入-posts里边即可"><a href="#将笔记放入-posts里边即可" class="headerlink" title="将笔记放入_posts里边即可"></a>将笔记放入_posts里边即可</h1><p><img src="https://img.lideshan.top/i/2024/07/15/6694e2495d339.png" alt="001.png"></p><h1 id="部署在github"><a href="#部署在github" class="headerlink" title="部署在github"></a>部署在github</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">修改 _config.yml的 deploy</span><br><span class="line"></span><br><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repo: https://github.com/ice-a/ice-a.github.io.git</span><br><span class="line">  branch: master</span><br><span class="line"></span><br><span class="line">修改大概16行的位置的url</span><br><span class="line">url: https://ice-a.github.io</span><br><span class="line">执行构建并部署</span><br><span class="line">hexo clean</span><br><span class="line">hexo generate</span><br><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><h1 id="配置githb"><a href="#配置githb" class="headerlink" title="配置githb"></a>配置githb</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">setting -&gt; page -&gt; Branch -&gt; master -&gt; save</span><br></pre></td></tr></table></figure><h1 id="等待几分钟就可以访问了"><a href="#等待几分钟就可以访问了" class="headerlink" title="等待几分钟就可以访问了"></a>等待几分钟就可以访问了</h1><p><a href="https://ice-a.github.io/">https://ice-a.github.io/</a></p>]]></content>
       
       
       
@@ -773,6 +773,31 @@
     
     
     <entry>
+      <title>激活工具</title>
+      <link href="/2023/01/01/%E7%8E%AF%E5%A2%83/env/"/>
+      <url>/2023/01/01/%E7%8E%AF%E5%A2%83/env/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>激活工具<br>    <a href="https://3.jetbra.in/">JETBRA.IN CHECKER | IPFS</a><br>Anaconda<br>    <a href="https://repo.anaconda.com/archive/">Index of &#x2F;</a><br>Miniforge<br>    <a href="https://github.com/conda-forge/miniforge/releases">Releases · conda-forge&#x2F;miniforge</a>    </p>]]></content>
+      
+      
+      <categories>
+          
+          <category> env </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> env </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ubuntu安装nodejs版本过低问题</title>
       <link href="/2023/01/01/%E7%8E%AF%E5%A2%83/ubuntu%E5%AE%89%E8%A3%85nodejs%E7%89%88%E6%9C%AC%E8%BF%87%E4%BD%8E/"/>
       <url>/2023/01/01/%E7%8E%AF%E5%A2%83/ubuntu%E5%AE%89%E8%A3%85nodejs%E7%89%88%E6%9C%AC%E8%BF%87%E4%BD%8E/</url>
@@ -796,31 +821,6 @@
             <tag> nodejs </tag>
             
             <tag> 版本 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>激活工具</title>
-      <link href="/2023/01/01/%E7%8E%AF%E5%A2%83/env/"/>
-      <url>/2023/01/01/%E7%8E%AF%E5%A2%83/env/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><p>激活工具<br>    <a href="https://3.jetbra.in/">JETBRA.IN CHECKER | IPFS</a><br>Anaconda<br>    <a href="https://repo.anaconda.com/archive/">Index of &#x2F;</a><br>Miniforge<br>    <a href="https://github.com/conda-forge/miniforge/releases">Releases · conda-forge&#x2F;miniforge</a>    </p>]]></content>
-      
-      
-      <categories>
-          
-          <category> env </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> env </tag>
             
         </tags>
       
@@ -1223,58 +1223,6 @@
     
     
     <entry>
-      <title>git</title>
-      <link href="/2022/02/02/git/git%20dev/"/>
-      <url>/2022/02/02/git/git%20dev/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="收藏"><a href="#收藏" class="headerlink" title="收藏"></a>收藏</h1><p><a href="https://github.com/hehehai/x-hiring?tab=readme-ov-file">GitHub - hehehai&#x2F;x-hiring: 🤗 每日最新招聘信息，使用 Google AI 提取摘要</a><br><a href="https://github.com/Ciphey/Ciphey">GitHub - Ciphey&#x2F;Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</a><br><a href="https://github.com/6174/comflowyspace">GitHub - 6174&#x2F;comflowyspace: Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.</a><br><a href="https://www.comflowy.com/zh-CN/space">ComflowySpace 介绍 – Comflowy</a><br>无损放大 <a href="https://www.upscayl.org/#desktop">Upscayl - Free AI Image Upscaler</a>  <a href="https://github.com/upscayl/upscayl">GitHub - upscayl&#x2F;upscayl: 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.</a><br><a href="https://github.com/xiaohucode/yidaRule/tree/main">GitHub - xiaohucode&#x2F;yidaRule: 益达规则仓库</a><br><a href="https://novamss.com/">NovaMSS | 新一代音乐源分离工具</a><br><a href="https://github.com/Tichau/FileConverter">GitHub - Tichau&#x2F;FileConverter: File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.</a>  <a href="https://file-converter.org/">File Converter - Convert your files in just 2 clicks!</a><br><a href="https://www.jihujiasuqi.com/">极狐游戏免费加速器 - 永久免费，不玩套路 【官方网站】</a><br><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">GitHub - TGSAN&#x2F;CMWTAT_Digital_Edition: CloudMoe Windows 10&#x2F;11 Activation Toolkit get digital license, the best open source Win 10&#x2F;11 activator in GitHub. GitHub 上最棒的开源 Win10&#x2F;Win11 数字权利（数字许可证）激活工具！</a><br><a href="https://github.com/pinokiocomputer/pinokio">GitHub - pinokiocomputer&#x2F;pinokio: AI Browser</a><br><a href="https://github.com/shugougou/shugougou">GitHub - shugougou&#x2F;shugougou: 薯狗狗小红书专业数据分析竞品账号监控工具</a> <a href="https://gi8xqz1t9kf.feishu.cn/docx/SqXPdHgkDol1pEx3ZNLcjneUn2b">薯狗狗截流工具下载安装使用教程 - 飞书云文档</a><br><a href="https://github.com/jianchang512/clone-voice">GitHub - jianchang512&#x2F;clone-voice: A sound cloning tool with a web interface, using your voice or any sound to record audio &#x2F; 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频</a><br><a href="https://github.com/YaoFANGUK/video-subtitle-remover">GitHub - YaoFANGUK&#x2F;video-subtitle-remover: 基于AI的图片&#x2F;视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片&#x2F;视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.</a><br><a href="https://www.javplayerfree.com/cn/">JavPlayer 介绍</a><br><a href="https://speechless.fun/">MemoMe 微博备份、评论备份、图片备份、收藏备份、导出 PDF</a><br><a href="https://omii.top/">奥秘博客| 探索科技·分享乐趣</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> git </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> git </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>高版本labelme格式转换为低版本格式</title>
-      <link href="/2022/02/02/labelme/%E9%AB%98%E7%89%88%E6%9C%AClabelme%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BD%8E%E7%89%88%E6%9C%AC%E6%A0%BC%E5%BC%8F/"/>
-      <url>/2022/02/02/labelme/%E9%AB%98%E7%89%88%E6%9C%AClabelme%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BD%8E%E7%89%88%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> json</span><br><span class="line">deatil_data=<span class="string">r&#x27;&#x27;</span></span><br><span class="line">save_path=<span class="string">&quot;&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> os.listdir(deatil_data):</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> i.endswith(<span class="string">&#x27;json&#x27;</span>):</span><br><span class="line">        <span class="keyword">continue</span></span><br><span class="line">    temp_data=os.path.join(deatil_data,i)</span><br><span class="line">    <span class="built_in">print</span>(temp_data)</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(temp_data,<span class="string">&quot;r&quot;</span>,encoding=<span class="string">&#x27;utf8&#x27;</span>)<span class="keyword">as</span> f:</span><br><span class="line">        data=json.loads(f.read())</span><br><span class="line">    template_data = &#123;</span><br><span class="line">        <span class="string">&quot;version&quot;</span>: <span class="string">&quot;3.16.7&quot;</span>,</span><br><span class="line">        <span class="string">&quot;flags&quot;</span>: &#123;&#125;,</span><br><span class="line">        <span class="string">&quot;shapes&quot;</span>: [],</span><br><span class="line">        <span class="string">&quot;lineColor&quot;</span>: [</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">255</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">128</span></span><br><span class="line">        ],</span><br><span class="line">        <span class="string">&quot;fillColor&quot;</span>: [</span><br><span class="line">            <span class="number">255</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">128</span></span><br><span class="line">        ],</span><br><span class="line">        <span class="string">&quot;imagePath&quot;</span>: data[<span class="string">&#x27;imagePath&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageHeight&quot;</span>: data[<span class="string">&#x27;imageHeight&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageWidth&quot;</span>: data[<span class="string">&#x27;imageWidth&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageData&quot;</span>: data[<span class="string">&#x27;imageData&#x27;</span>],</span><br><span class="line">    &#125; </span><br><span class="line">    shapes=[]</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> data[<span class="string">&#x27;shapes&#x27;</span>]:</span><br><span class="line">        dict_point=&#123;</span><br><span class="line">                <span class="string">&quot;label&quot;</span>:j[<span class="string">&#x27;label&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;line_color&quot;</span>:<span class="literal">None</span>,</span><br><span class="line">                <span class="string">&quot;fill_color&quot;</span>:<span class="literal">None</span>,</span><br><span class="line">                <span class="string">&quot;points&quot;</span>:j[<span class="string">&#x27;points&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;shape_type&quot;</span>:j[<span class="string">&#x27;shape_type&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;flags&quot;</span>:&#123;&#125;</span><br><span class="line">            &#125;</span><br><span class="line"></span><br><span class="line">        shapes.append(dict_point)</span><br><span class="line">    template_data[<span class="string">&#x27;shapes&#x27;</span>]=shapes</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(temp_data,<span class="string">&quot;w&quot;</span>,encoding=<span class="string">&#x27;utf-8&#x27;</span>)<span class="keyword">as</span> ff:</span><br><span class="line">        ff.write(json.dumps(template_data,ensure_ascii=<span class="literal">False</span>,indent=<span class="number">4</span>))</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> code </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-            <tag> labelme </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>windows使用docker部署mongo数据持久化的坑</title>
       <link href="/2022/02/02/docker/mongodb_docker/"/>
       <url>/2022/02/02/docker/mongodb_docker/</url>
@@ -1327,6 +1275,58 @@
             <tag> dev </tag>
             
             <tag> restart </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>git</title>
+      <link href="/2022/02/02/git/git%20dev/"/>
+      <url>/2022/02/02/git/git%20dev/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="收藏"><a href="#收藏" class="headerlink" title="收藏"></a>收藏</h1><p><a href="https://github.com/hehehai/x-hiring?tab=readme-ov-file">GitHub - hehehai&#x2F;x-hiring: 🤗 每日最新招聘信息，使用 Google AI 提取摘要</a><br><a href="https://github.com/Ciphey/Ciphey">GitHub - Ciphey&#x2F;Ciphey: ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</a><br><a href="https://github.com/6174/comflowyspace">GitHub - 6174&#x2F;comflowyspace: Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.</a><br><a href="https://www.comflowy.com/zh-CN/space">ComflowySpace 介绍 – Comflowy</a><br>无损放大 <a href="https://www.upscayl.org/#desktop">Upscayl - Free AI Image Upscaler</a>  <a href="https://github.com/upscayl/upscayl">GitHub - upscayl&#x2F;upscayl: 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.</a><br><a href="https://github.com/xiaohucode/yidaRule/tree/main">GitHub - xiaohucode&#x2F;yidaRule: 益达规则仓库</a><br><a href="https://novamss.com/">NovaMSS | 新一代音乐源分离工具</a><br><a href="https://github.com/Tichau/FileConverter">GitHub - Tichau&#x2F;FileConverter: File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.</a>  <a href="https://file-converter.org/">File Converter - Convert your files in just 2 clicks!</a><br><a href="https://www.jihujiasuqi.com/">极狐游戏免费加速器 - 永久免费，不玩套路 【官方网站】</a><br><a href="https://github.com/TGSAN/CMWTAT_Digital_Edition">GitHub - TGSAN&#x2F;CMWTAT_Digital_Edition: CloudMoe Windows 10&#x2F;11 Activation Toolkit get digital license, the best open source Win 10&#x2F;11 activator in GitHub. GitHub 上最棒的开源 Win10&#x2F;Win11 数字权利（数字许可证）激活工具！</a><br><a href="https://github.com/pinokiocomputer/pinokio">GitHub - pinokiocomputer&#x2F;pinokio: AI Browser</a><br><a href="https://github.com/shugougou/shugougou">GitHub - shugougou&#x2F;shugougou: 薯狗狗小红书专业数据分析竞品账号监控工具</a> <a href="https://gi8xqz1t9kf.feishu.cn/docx/SqXPdHgkDol1pEx3ZNLcjneUn2b">薯狗狗截流工具下载安装使用教程 - 飞书云文档</a><br><a href="https://github.com/jianchang512/clone-voice">GitHub - jianchang512&#x2F;clone-voice: A sound cloning tool with a web interface, using your voice or any sound to record audio &#x2F; 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频</a><br><a href="https://github.com/YaoFANGUK/video-subtitle-remover">GitHub - YaoFANGUK&#x2F;video-subtitle-remover: 基于AI的图片&#x2F;视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片&#x2F;视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.</a><br><a href="https://www.javplayerfree.com/cn/">JavPlayer 介绍</a><br><a href="https://speechless.fun/">MemoMe 微博备份、评论备份、图片备份、收藏备份、导出 PDF</a><br><a href="https://omii.top/">奥秘博客| 探索科技·分享乐趣</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> git </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> git </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>高版本labelme格式转换为低版本格式</title>
+      <link href="/2022/02/02/labelme/%E9%AB%98%E7%89%88%E6%9C%AClabelme%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BD%8E%E7%89%88%E6%9C%AC%E6%A0%BC%E5%BC%8F/"/>
+      <url>/2022/02/02/labelme/%E9%AB%98%E7%89%88%E6%9C%AClabelme%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BD%8E%E7%89%88%E6%9C%AC%E6%A0%BC%E5%BC%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> os</span><br><span class="line"><span class="keyword">import</span> json</span><br><span class="line">deatil_data=<span class="string">r&#x27;&#x27;</span></span><br><span class="line">save_path=<span class="string">&quot;&quot;</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> os.listdir(deatil_data):</span><br><span class="line">    <span class="keyword">if</span> <span class="keyword">not</span> i.endswith(<span class="string">&#x27;json&#x27;</span>):</span><br><span class="line">        <span class="keyword">continue</span></span><br><span class="line">    temp_data=os.path.join(deatil_data,i)</span><br><span class="line">    <span class="built_in">print</span>(temp_data)</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(temp_data,<span class="string">&quot;r&quot;</span>,encoding=<span class="string">&#x27;utf8&#x27;</span>)<span class="keyword">as</span> f:</span><br><span class="line">        data=json.loads(f.read())</span><br><span class="line">    template_data = &#123;</span><br><span class="line">        <span class="string">&quot;version&quot;</span>: <span class="string">&quot;3.16.7&quot;</span>,</span><br><span class="line">        <span class="string">&quot;flags&quot;</span>: &#123;&#125;,</span><br><span class="line">        <span class="string">&quot;shapes&quot;</span>: [],</span><br><span class="line">        <span class="string">&quot;lineColor&quot;</span>: [</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">255</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">128</span></span><br><span class="line">        ],</span><br><span class="line">        <span class="string">&quot;fillColor&quot;</span>: [</span><br><span class="line">            <span class="number">255</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">0</span>,</span><br><span class="line">            <span class="number">128</span></span><br><span class="line">        ],</span><br><span class="line">        <span class="string">&quot;imagePath&quot;</span>: data[<span class="string">&#x27;imagePath&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageHeight&quot;</span>: data[<span class="string">&#x27;imageHeight&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageWidth&quot;</span>: data[<span class="string">&#x27;imageWidth&#x27;</span>],</span><br><span class="line">        <span class="string">&quot;imageData&quot;</span>: data[<span class="string">&#x27;imageData&#x27;</span>],</span><br><span class="line">    &#125; </span><br><span class="line">    shapes=[]</span><br><span class="line">    <span class="keyword">for</span> j <span class="keyword">in</span> data[<span class="string">&#x27;shapes&#x27;</span>]:</span><br><span class="line">        dict_point=&#123;</span><br><span class="line">                <span class="string">&quot;label&quot;</span>:j[<span class="string">&#x27;label&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;line_color&quot;</span>:<span class="literal">None</span>,</span><br><span class="line">                <span class="string">&quot;fill_color&quot;</span>:<span class="literal">None</span>,</span><br><span class="line">                <span class="string">&quot;points&quot;</span>:j[<span class="string">&#x27;points&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;shape_type&quot;</span>:j[<span class="string">&#x27;shape_type&#x27;</span>],</span><br><span class="line">                <span class="string">&quot;flags&quot;</span>:&#123;&#125;</span><br><span class="line">            &#125;</span><br><span class="line"></span><br><span class="line">        shapes.append(dict_point)</span><br><span class="line">    template_data[<span class="string">&#x27;shapes&#x27;</span>]=shapes</span><br><span class="line">    <span class="keyword">with</span> <span class="built_in">open</span>(temp_data,<span class="string">&quot;w&quot;</span>,encoding=<span class="string">&#x27;utf-8&#x27;</span>)<span class="keyword">as</span> ff:</span><br><span class="line">        ff.write(json.dumps(template_data,ensure_ascii=<span class="literal">False</span>,indent=<span class="number">4</span>))</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> labelme </tag>
             
         </tags>
       
@@ -1499,35 +1499,6 @@
     
     
     <entry>
-      <title>关于m4a文件转成wav文件</title>
-      <link href="/2022/02/02/python/%E5%85%B3%E4%BA%8Em4a%E6%96%87%E4%BB%B6%E8%BD%AC%E6%88%90wav%E6%96%87%E4%BB%B6/"/>
-      <url>/2022/02/02/python/%E5%85%B3%E4%BA%8Em4a%E6%96%87%E4%BB%B6%E8%BD%AC%E6%88%90wav%E6%96%87%E4%BB%B6/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="m4a文件转为16bit-单声道-采样率为48kHz"><a href="#m4a文件转为16bit-单声道-采样率为48kHz" class="headerlink" title="m4a文件转为16bit,单声道,采样率为48kHz"></a>m4a文件转为16bit,单声道,采样率为48kHz</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">for i in *.m4a; do ffmpeg -i &quot;$i&quot; -acodec pcm_s16le -ac 1 -ar 48000 &quot;$&#123;i%&#125;.wav&quot;; done</span><br><span class="line">-acodec pcm_s16le:16bit</span><br><span class="line">-ac 1:单声道</span><br><span class="line">-ar 48000:48kHZ</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> code </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-            <tag> code </tag>
-            
-            <tag> ffmpeg </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>使用opencv进行人脸检测</title>
       <link href="/2022/02/02/python/%E4%BD%BF%E7%94%A8opencv%E8%BF%9B%E8%A1%8C%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/"/>
       <url>/2022/02/02/python/%E4%BD%BF%E7%94%A8opencv%E8%BF%9B%E8%A1%8C%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B/</url>
@@ -1549,6 +1520,35 @@
             <tag> cv </tag>
             
             <tag> 检测 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于m4a文件转成wav文件</title>
+      <link href="/2022/02/02/python/%E5%85%B3%E4%BA%8Em4a%E6%96%87%E4%BB%B6%E8%BD%AC%E6%88%90wav%E6%96%87%E4%BB%B6/"/>
+      <url>/2022/02/02/python/%E5%85%B3%E4%BA%8Em4a%E6%96%87%E4%BB%B6%E8%BD%AC%E6%88%90wav%E6%96%87%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="m4a文件转为16bit-单声道-采样率为48kHz"><a href="#m4a文件转为16bit-单声道-采样率为48kHz" class="headerlink" title="m4a文件转为16bit,单声道,采样率为48kHz"></a>m4a文件转为16bit,单声道,采样率为48kHz</h1><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">for i in *.m4a; do ffmpeg -i &quot;$i&quot; -acodec pcm_s16le -ac 1 -ar 48000 &quot;$&#123;i%&#125;.wav&quot;; done</span><br><span class="line">-acodec pcm_s16le:16bit</span><br><span class="line">-ac 1:单声道</span><br><span class="line">-ar 48000:48kHZ</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> code </tag>
+            
+            <tag> ffmpeg </tag>
             
         </tags>
       
@@ -1615,31 +1615,6 @@
     
     
     <entry>
-      <title>多张图片合成一张</title>
-      <link href="/2022/02/02/python/%E5%A4%9A%E5%BC%A0%E5%9B%BE%E7%89%87%E5%90%88%E6%88%90%E4%B8%80%E5%BC%A0/"/>
-      <url>/2022/02/02/python/%E5%A4%9A%E5%BC%A0%E5%9B%BE%E7%89%87%E5%90%88%E6%88%90%E4%B8%80%E5%BC%A0/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2 <span class="keyword">as</span> cv</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="comment"># 读入图片</span></span><br><span class="line">src = cv.imread(<span class="string">&#x27;test.jpg&#x27;</span>)</span><br><span class="line"><span class="comment"># 调用cv.putText()添加文字</span></span><br><span class="line">text = <span class="string">&quot;Your are so beautiful!&quot;</span></span><br><span class="line">AddText = src.copy()</span><br><span class="line">cv.putText(AddText, text, (<span class="number">200</span>, <span class="number">100</span>), cv.FONT_HERSHEY_COMPLEX, <span class="number">2.0</span>, (<span class="number">100</span>, <span class="number">200</span>, <span class="number">200</span>), <span class="number">5</span>)</span><br><span class="line"><span class="comment"># 将原图片和添加文字后的图片拼接起来</span></span><br><span class="line">res = np.hstack([src, AddText])</span><br><span class="line"><span class="comment"># 显示拼接后的图片</span></span><br><span class="line">cv.imshow(<span class="string">&#x27;text&#x27;</span>, res)</span><br><span class="line">cv.waitKey()</span><br><span class="line">cv.destroyAllWindows()</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> code </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>图片旋转摆正根据图片的exif信息</title>
       <link href="/2022/02/02/python/%E5%9B%BE%E7%89%87%E6%97%8B%E8%BD%AC%E6%91%86%E6%AD%A3%E6%A0%B9%E6%8D%AE%E5%9B%BE%E7%89%87%E7%9A%84exif%E4%BF%A1%E6%81%AF/"/>
       <url>/2022/02/02/python/%E5%9B%BE%E7%89%87%E6%97%8B%E8%BD%AC%E6%91%86%E6%AD%A3%E6%A0%B9%E6%8D%AE%E5%9B%BE%E7%89%87%E7%9A%84exif%E4%BF%A1%E6%81%AF/</url>
@@ -1663,6 +1638,31 @@
             <tag> 旋转 </tag>
             
             <tag> exif </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>多张图片合成一张</title>
+      <link href="/2022/02/02/python/%E5%A4%9A%E5%BC%A0%E5%9B%BE%E7%89%87%E5%90%88%E6%88%90%E4%B8%80%E5%BC%A0/"/>
+      <url>/2022/02/02/python/%E5%A4%9A%E5%BC%A0%E5%9B%BE%E7%89%87%E5%90%88%E6%88%90%E4%B8%80%E5%BC%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2 <span class="keyword">as</span> cv</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="comment"># 读入图片</span></span><br><span class="line">src = cv.imread(<span class="string">&#x27;test.jpg&#x27;</span>)</span><br><span class="line"><span class="comment"># 调用cv.putText()添加文字</span></span><br><span class="line">text = <span class="string">&quot;Your are so beautiful!&quot;</span></span><br><span class="line">AddText = src.copy()</span><br><span class="line">cv.putText(AddText, text, (<span class="number">200</span>, <span class="number">100</span>), cv.FONT_HERSHEY_COMPLEX, <span class="number">2.0</span>, (<span class="number">100</span>, <span class="number">200</span>, <span class="number">200</span>), <span class="number">5</span>)</span><br><span class="line"><span class="comment"># 将原图片和添加文字后的图片拼接起来</span></span><br><span class="line">res = np.hstack([src, AddText])</span><br><span class="line"><span class="comment"># 显示拼接后的图片</span></span><br><span class="line">cv.imshow(<span class="string">&#x27;text&#x27;</span>, res)</span><br><span class="line">cv.waitKey()</span><br><span class="line">cv.destroyAllWindows()</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> code </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
             
         </tags>
       
@@ -2200,33 +2200,6 @@
     
     
     <entry>
-      <title>opencv 画图相关</title>
-      <link href="/2019/02/02/python/opencv_%E7%94%BB%E5%9B%BE%E7%9B%B8%E5%85%B3/"/>
-      <url>/2019/02/02/python/opencv_%E7%94%BB%E5%9B%BE%E7%9B%B8%E5%85%B3/</url>
-      
-        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="基本绘图"><a href="#基本绘图" class="headerlink" title="基本绘图"></a>基本绘图</h1><p>opencv 提供了绘制直线、圆形、矩形等基本绘图的功能</p><h2 id="1、绘直线"><a href="#1、绘直线" class="headerlink" title="1、绘直线"></a>1、绘直线</h2><p>cv2.line(画布,起点坐标，终点坐标，颜色，宽度)<br>例如：<br>cv2.line(image,(20,60),(300,400),(0,0,255),2)</p><h2 id="2、绘矩形"><a href="#2、绘矩形" class="headerlink" title="2、绘矩形"></a>2、绘矩形</h2><p>cv2.rectange(画布，起点，终点，颜色，宽度)<br>若宽度大于0，标识边线宽度；如果小于0，表示画实心矩形<br>cv2.rectange(image,(20,60),(300,400),(255,0,0),-1)</p><h2 id="3、绘圆形"><a href="#3、绘圆形" class="headerlink" title="3、绘圆形"></a>3、绘圆形</h2><p>cv2.circle(画布，圆心坐标，半径，颜色，宽度)<br>若宽度大于0，标识边线宽度；如果小于0，表示画实心圆行<br>cv2.circle(image,(300,300),40,(0,255,0),2)</p><h2 id="4、绘多边形"><a href="#4、绘多边形" class="headerlink" title="4、绘多边形"></a>4、绘多边形</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># cv2.polylines(画布，点坐标列表，封闭，颜色，宽度)</span></span><br><span class="line"><span class="comment"># 点坐标列表是一个numpy类型的列表，需要导入numpy 包</span></span><br><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line"><span class="comment"># 创建点坐标</span></span><br><span class="line">pts = numpy.array([[<span class="number">20</span>,<span class="number">60</span>],[<span class="number">300</span>,<span class="number">280</span>],[<span class="number">150</span>,<span class="number">200</span>]],numpy.int32)</span><br><span class="line">cv2.rectange(image,[pts],<span class="literal">True</span>,(<span class="number">0</span>,<span class="number">0</span>,<span class="number">255</span>),<span class="number">2</span>)</span><br></pre></td></tr></table></figure><h2 id="5、添加文字"><a href="#5、添加文字" class="headerlink" title="5、添加文字"></a>5、添加文字</h2><p>cv2.putText(画布，文字，位置，字体，大小，颜色，文字粗细)<br>字体：<br>　　cv2.FONT_HERSHEY_SIMPLEX  正常尺寸的sans-serif字体<br>　　cv2.FONT_HERSHEY_SPLAIN   小尺寸的sans-serif字体<br>　　cv2.FONT_HERSHEY_COMPLEX  正常尺寸的serif字体<br>　　cv2.FONT_HERSHEY_SCREIPT_SIMPLEX  手写字体风格</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line">cv2.namedWindow(<span class="string">&quot;Image&quot;</span>) <span class="comment">#创建窗口</span></span><br><span class="line">img = cv2.imread(<span class="string">&#x27;ver.jpg&#x27;</span>) <span class="comment">#读取图像</span></span><br><span class="line">cv2.line(img,(<span class="number">50</span>,<span class="number">50</span>),(<span class="number">300</span>,<span class="number">300</span>),(<span class="number">255</span>,<span class="number">0</span>,<span class="number">0</span>),<span class="number">2</span>) <span class="comment">#画直线</span></span><br><span class="line">cv2.rectangle(img,(<span class="number">500</span>,<span class="number">20</span>),(<span class="number">580</span>,<span class="number">100</span>),(<span class="number">0</span>,<span class="number">255</span>,<span class="number">0</span>),-<span class="number">1</span>)  <span class="comment">#画矩形</span></span><br><span class="line">cv2.circle(img,(<span class="number">500</span>,<span class="number">300</span>),<span class="number">40</span>,(<span class="number">255</span>,<span class="number">255</span>,<span class="number">0</span>),-<span class="number">1</span>) <span class="comment">#画圆形</span></span><br><span class="line">pts = numpy.array([[<span class="number">300</span>,<span class="number">300</span>],[<span class="number">300</span>,<span class="number">340</span>],[<span class="number">350</span>,<span class="number">320</span>]],numpy.int32)  <span class="comment">#用numpy形成坐标列表</span></span><br><span class="line">cv2.polylines(img,[pts],<span class="literal">True</span>,(<span class="number">0</span>,<span class="number">255</span>,<span class="number">255</span>),<span class="number">2</span>)  <span class="comment">#画多边形</span></span><br><span class="line">cv2.putText(img,<span class="string">&#x27;测试&#x27;</span>,(<span class="number">350</span>,<span class="number">420</span>),cv2.FONT_HERSHEY_SIMPLEX,<span class="number">1</span>,(<span class="number">255</span>,<span class="number">232</span>,<span class="number">133</span>),<span class="number">2</span>)</span><br><span class="line">cv2.imshow(<span class="string">&#x27;Image&#x27;</span>,img)</span><br><span class="line">cv2.waitKey(<span class="number">0</span>)</span><br><span class="line">cv2.destroyWindow(<span class="string">&quot;Image&quot;</span>)  <span class="comment">#关闭窗口</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> python </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-            <tag> opencv </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>opencv video 相关参数</title>
       <link href="/2019/02/02/python/opencv_video_%E7%9B%B8%E5%85%B3%E5%8F%82%E6%95%B0/"/>
       <url>/2019/02/02/python/opencv_video_%E7%9B%B8%E5%85%B3%E5%8F%82%E6%95%B0/</url>
@@ -2246,6 +2219,33 @@
             <tag> python </tag>
             
             <tag> cv </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>opencv 画图相关</title>
+      <link href="/2019/02/02/python/opencv_%E7%94%BB%E5%9B%BE%E7%9B%B8%E5%85%B3/"/>
+      <url>/2019/02/02/python/opencv_%E7%94%BB%E5%9B%BE%E7%9B%B8%E5%85%B3/</url>
+      
+        <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h1 id="基本绘图"><a href="#基本绘图" class="headerlink" title="基本绘图"></a>基本绘图</h1><p>opencv 提供了绘制直线、圆形、矩形等基本绘图的功能</p><h2 id="1、绘直线"><a href="#1、绘直线" class="headerlink" title="1、绘直线"></a>1、绘直线</h2><p>cv2.line(画布,起点坐标，终点坐标，颜色，宽度)<br>例如：<br>cv2.line(image,(20,60),(300,400),(0,0,255),2)</p><h2 id="2、绘矩形"><a href="#2、绘矩形" class="headerlink" title="2、绘矩形"></a>2、绘矩形</h2><p>cv2.rectange(画布，起点，终点，颜色，宽度)<br>若宽度大于0，标识边线宽度；如果小于0，表示画实心矩形<br>cv2.rectange(image,(20,60),(300,400),(255,0,0),-1)</p><h2 id="3、绘圆形"><a href="#3、绘圆形" class="headerlink" title="3、绘圆形"></a>3、绘圆形</h2><p>cv2.circle(画布，圆心坐标，半径，颜色，宽度)<br>若宽度大于0，标识边线宽度；如果小于0，表示画实心圆行<br>cv2.circle(image,(300,300),40,(0,255,0),2)</p><h2 id="4、绘多边形"><a href="#4、绘多边形" class="headerlink" title="4、绘多边形"></a>4、绘多边形</h2><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="comment"># cv2.polylines(画布，点坐标列表，封闭，颜色，宽度)</span></span><br><span class="line"><span class="comment"># 点坐标列表是一个numpy类型的列表，需要导入numpy 包</span></span><br><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line"><span class="comment"># 创建点坐标</span></span><br><span class="line">pts = numpy.array([[<span class="number">20</span>,<span class="number">60</span>],[<span class="number">300</span>,<span class="number">280</span>],[<span class="number">150</span>,<span class="number">200</span>]],numpy.int32)</span><br><span class="line">cv2.rectange(image,[pts],<span class="literal">True</span>,(<span class="number">0</span>,<span class="number">0</span>,<span class="number">255</span>),<span class="number">2</span>)</span><br></pre></td></tr></table></figure><h2 id="5、添加文字"><a href="#5、添加文字" class="headerlink" title="5、添加文字"></a>5、添加文字</h2><p>cv2.putText(画布，文字，位置，字体，大小，颜色，文字粗细)<br>字体：<br>　　cv2.FONT_HERSHEY_SIMPLEX  正常尺寸的sans-serif字体<br>　　cv2.FONT_HERSHEY_SPLAIN   小尺寸的sans-serif字体<br>　　cv2.FONT_HERSHEY_COMPLEX  正常尺寸的serif字体<br>　　cv2.FONT_HERSHEY_SCREIPT_SIMPLEX  手写字体风格</p><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> cv2</span><br><span class="line"><span class="keyword">import</span> numpy</span><br><span class="line">cv2.namedWindow(<span class="string">&quot;Image&quot;</span>) <span class="comment">#创建窗口</span></span><br><span class="line">img = cv2.imread(<span class="string">&#x27;ver.jpg&#x27;</span>) <span class="comment">#读取图像</span></span><br><span class="line">cv2.line(img,(<span class="number">50</span>,<span class="number">50</span>),(<span class="number">300</span>,<span class="number">300</span>),(<span class="number">255</span>,<span class="number">0</span>,<span class="number">0</span>),<span class="number">2</span>) <span class="comment">#画直线</span></span><br><span class="line">cv2.rectangle(img,(<span class="number">500</span>,<span class="number">20</span>),(<span class="number">580</span>,<span class="number">100</span>),(<span class="number">0</span>,<span class="number">255</span>,<span class="number">0</span>),-<span class="number">1</span>)  <span class="comment">#画矩形</span></span><br><span class="line">cv2.circle(img,(<span class="number">500</span>,<span class="number">300</span>),<span class="number">40</span>,(<span class="number">255</span>,<span class="number">255</span>,<span class="number">0</span>),-<span class="number">1</span>) <span class="comment">#画圆形</span></span><br><span class="line">pts = numpy.array([[<span class="number">300</span>,<span class="number">300</span>],[<span class="number">300</span>,<span class="number">340</span>],[<span class="number">350</span>,<span class="number">320</span>]],numpy.int32)  <span class="comment">#用numpy形成坐标列表</span></span><br><span class="line">cv2.polylines(img,[pts],<span class="literal">True</span>,(<span class="number">0</span>,<span class="number">255</span>,<span class="number">255</span>),<span class="number">2</span>)  <span class="comment">#画多边形</span></span><br><span class="line">cv2.putText(img,<span class="string">&#x27;测试&#x27;</span>,(<span class="number">350</span>,<span class="number">420</span>),cv2.FONT_HERSHEY_SIMPLEX,<span class="number">1</span>,(<span class="number">255</span>,<span class="number">232</span>,<span class="number">133</span>),<span class="number">2</span>)</span><br><span class="line">cv2.imshow(<span class="string">&#x27;Image&#x27;</span>,img)</span><br><span class="line">cv2.waitKey(<span class="number">0</span>)</span><br><span class="line">cv2.destroyWindow(<span class="string">&quot;Image&quot;</span>)  <span class="comment">#关闭窗口</span></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> python </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> opencv </tag>
             
         </tags>
       
